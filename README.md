@@ -28,3 +28,6 @@ Untuk menggunakan proyek ini, Anda perlu mengikuti langkah-langkah berikut:
 ## Preference Results Page
 ![Screenshot 2024-07-01 094345](https://github.com/ahmadarifnhd/Sistem-Pendukung-Keputusan-SPK-Menu-Terlaris---Motede-SAW/assets/151599766/434abaa1-bc71-41c0-9f3d-0207541c5839)
 
+## Entity Relationship Diagram
+![Screenshot 2024-07-01 054354](https://github.com/ahmadarifnhd/Sistem-Pendukung-Keputusan-SPK-Menu-Terlaris---Motede-SAW/assets/151599766/0c65f866-57d4-4019-8e50-b41adb1741c0)
+
