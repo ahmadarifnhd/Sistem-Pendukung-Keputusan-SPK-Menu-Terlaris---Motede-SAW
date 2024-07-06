@@ -190,7 +190,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    Created by <strong>Aan & Hendrik</strong> - 2024.
+    Created by <strong>Ahmad Arif Nuhuda</strong> - 2024.
     <div class="float-right d-none d-sm-inline-block">
       SPK Menu Terlaris RM. Berdikari
     </div>
